@@ -1,0 +1,39 @@
+         "email":"estefanio.freitas@example.com",
+         "login":{
+            "uuid":"6c7076a5-a9fd-489c-b213-1b1c95c56468",
+            "username":"bluemeercat169",
+            "password":"templar",
+            "salt":"Z210QrOl",
+            "md5":"a677b48c0edcd482c7861b636b8e5639",
+            "sha1":"487da06ce780c87b658f23bba1215e5b747804f2",
+            "sha256":"fa7e772e6e0c437fdcde68ac5b624f15ed9d6400245823dd3ac50ee1d1047279"
+         },
+         "dob":{
+            "date":"1953-09-16T05:40:06.743Z",
+            "age":69
+         },
+         "registered":{
+            "date":"2019-09-10T04:09:40.564Z",
+            "age":3
+         },
+         "phone":"(87) 3958-5197",
+         "cell":"(79) 0099-7980",
+         "id":{
+            "name":"",
+            "value":null
+         },
+         "picture":{
+            "large":"https://randomuser.me/api/portraits/men/35.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/men/35.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/men/35.jpg"
+         },
+         "nat":"BR"
+      }
+   ],
+   "info":{
+      "seed":"a9935c709f1b6805",
+      "results":5,
+      "page":1,
+      "version":"1.3"
+   }
+}
