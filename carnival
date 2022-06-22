@@ -15,7 +15,7 @@
             "city":"Gresham",
             "state":"Michigan",
             "country":"United States",
-            "postcode":72882,
+            "postcode":"COE",
             "coordinates":{
                "latitude":"89.6485",
                "longitude":"172.4069"
@@ -71,7 +71,7 @@
             "city":"Springfield",
             "state":"Newfoundland and Labrador",
             "country":"Canada",
-            "postcode":"COE San Martin",
+            "postcode":"COE",
             "coordinates":{
                "latitude":"1.5614",
                "longitude":"42.8657"
